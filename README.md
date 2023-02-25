@@ -1,3 +1,4 @@
 #learn-shell
 shell  scripting topics
-printing
+printing..
+reading
