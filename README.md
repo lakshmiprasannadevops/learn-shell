@@ -2,3 +2,4 @@
 shell  scripting topics
 printing..
 reading
+learn
